@@ -28,7 +28,9 @@ To hit these requirements, as well as creating something I would take an interes
 * Create their own team including:
   * The Team Name
   * Owner Name
-So that they may create the team name they like and then also track it with their name being associated to their team. As well as this they will be able to:
+  
+  So that they may create the team name they like and then also track it with their name being associated to their team. As well as this they will be able to:
+  
 * Add players into their team by adding in:
   * The Player's name
   * The real team that the player plays for
