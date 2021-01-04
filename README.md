@@ -41,15 +41,15 @@ To hit these requirements, as well as creating something I would take an interes
 I have created an ERD diagram for before and after the project to show the structure of my database and the relationships taking place between the tables. Below is an evolution of my ERD diagrams as I planned it and as I had come to finish it.
 ##### ERD Diagram (Before)
 The image below shows my first ERD diagram, I initially planned on creaating a practically working Fantasy premier league application with a points based system and a league table and the diagram below shows my original plans.
-![erdfirst](https://imgur.com/Focl9Cm)
+![erdfirst](https://imgur.com/Focl9Cm.png)
 ##### ERD Diagram 2 (After)
 The next image below shows my final design for my ERD diagram, I've changed the structure of the application as at this point I had realised the difficulty of the first design, and also, based on the spec, it seemed quite unnecessary so I went for a simple design that allows to create a 'Fantasy Team' with no scoring system or league.  
-![erdsecond](https://imgur.com/lBwo23b)
+![erdsecond](https://imgur.com/lBwo23b.png)
 #### CI Pipeline
 The image below represents my CI pipeline with the different processes and the apps/ tools used to do so. It displays the process and path of the development cycle in a sense and also how they were used to create a funtioning and aptly tested program.
-![CIpipeline](https://imgur.com/wBmENAs)
+![CIpipeline](https://imgur.com/wBmENAs.png)
 
 ### Project Tracking
 For Project Management Trello was used to track the progress of the project's tasks and display my process, from planning to testing and finally to completion. Below is a screenshot of my board.
 You can find the full Trello Board [Here](https://trello.com/b/vmdySd62/project-management).
-![trello](https://imgur.com/6q2OwOt)
+![trello](https://imgur.com/6q2OwOt.png)
