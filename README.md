@@ -57,7 +57,7 @@ You can find the full Trello Board [Here](https://trello.com/b/vmdySd62/project-
 ### Risk Assessment
 Below is my risk assessment for the project. This is where I have outlined potential risks, their impacts and mitigation techniques that I may need. Similar to the ERD diagram I have done a before and after, however unlike the ERD, I have only added a couple of items to this and none have been removed.
 Here is the first draft:
-![riskassessment1](https://imgur.com/ChlWjGw.PNG)
+![riskassessment1](https://i.imgur.com/ChlWjGw.png)
 And below is my final draft:
-![riskassessment2](https://imgur.com/uJEB1Uu.PNG)
+![riskassessment2](https://imgur.com/uJEB1Uu.png)
 
