@@ -61,3 +61,13 @@ Here is the first draft:
 And below is my final draft:
 ![riskassessment2](https://imgur.com/uJEB1Uu.png)
 
+# Testing
+
+I used pytest to run unit tests on the app. These tests will then validate that each 'unit' of the application performs as designed. The unit testing on my application showed as 100% coverage, and the image below is the resulting jenkins console output. If any tests do fail it will be shown here.
+pytest has the ability to also produce a coverage report, by running:
+```python
+python3 -m pytest --cov=application
+```
+Here is the result of running the above code:
+![pytest-jenkins](https://imgur.com/jZocpao.jpeg)
+
