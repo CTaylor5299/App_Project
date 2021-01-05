@@ -1,8 +1,7 @@
 # Fantasy Football CRUD Application
 ## Fundamental Project
 
-Contents
-* [Brief] (## Brief)
+
 
 ## Brief
 
