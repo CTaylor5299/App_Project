@@ -61,7 +61,7 @@ Here is the first draft:
 And below is my final draft:
 ![riskassessment2](https://imgur.com/uJEB1Uu.png)
 
-# Testing
+### Testing
 
 I used pytest to run unit tests on the app. These tests will then validate that each 'unit' of the application performs as designed. The unit testing on my application showed as 100% coverage, and the image below is the resulting jenkins console output. If any tests do fail it will be shown here.
 pytest has the ability to also produce a coverage report, by running:
@@ -71,3 +71,25 @@ python3 -m pytest --cov=application
 Here is the result of running the above code:
 ![pytest-jenkins](https://imgur.com/jZocpao.jpeg)
 
+### Front-End Design 
+
+The front-end design of my application is built using basic HTML and Jinja, this was the most efficient way to design a basic web application without over-complicating it. Below I will briefly show the pages within my application. 
+First is the homepage, this is what the user will see when they initially launch the application:
+![Home-Page](https://imgur.com/3Q19b8R.png)
+Navigating to the "create" page allows the user to input a team name and also the owner of the team, which would be you:
+![Create-Team-Page](https://imgur.com/ibjR2EE.png)
+Once the user has entered and submitted their team name and owner they will be redirected to the homepage:
+![Homepage](https://imgur.com/4hrisiF.png)
+An option of adding players is avaliable to the user, where they can add players to their team. A maximum of 5 players can be added to the team as this is a 5-a-side fantasy app. Upon reaching 5 players a message appears atop the screen that states the limit has been reached:
+![Add-players](https://imgur.com/16kwLmw.png)
+
+### Further Improvements
+
+If I were to improve this application I would:
+* add CSS styling to make the app more aesthetically appealing, as it is currently quite bland.
+* Make it look as if the players were lined up in formation rather than just appearing in a list.
+* implement the ability to update players individually rather than deleting the team entirely.
+* allow for images of the selected players to be added by the user.
+
+## Author
+#### Connor Taylor
