@@ -2,7 +2,7 @@
 ## Fundamental Project
 
 Contents
-* [Brief](## Brief)
+* [Brief] (## Brief)
 
 ## Brief
 
