@@ -5,6 +5,7 @@
 
 ## Brief
 
+
 #### What was required
 For this project, the goal that was asked of me was to be able to create an application that has the ability to utilise CRUD functionality (Create, Read, Update, Delete). I would achieve this using the tools and knowledge gained in the previous training modules covered in the weeks prior to this. I was given some objectives to meet in terms of certain aspects that were required, for example:
 * A Trello board with full expansion
