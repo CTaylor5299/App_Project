@@ -81,7 +81,7 @@ python3 -m pytest --cov=application
 Here is the result of running the above code:
 
 ![pytest-jenkins](https://imgur.com/jZocpao.jpeg)
-![pytest-visual](https://https://i.imgur.com/h4K5SET.png)
+![pytest-visual](https://imgur.com/h4K5SET.png)
 
 ### Front-End Design 
 
